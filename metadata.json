@@ -1,0 +1,7 @@
+{
+  "name": "VetSpark",
+  "description": "A centralized pet health management platform connecting pet owners and veterinarians. Features health records, AI-powered consultations, appointment booking, and smart medication reminders.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
